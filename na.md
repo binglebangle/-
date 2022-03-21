@@ -2,9 +2,11 @@
 ## 밥먹고싶은데
 **배고파**
 <code>
-printf("Hi");
-</code>
 <pre>
+printf("Hi");
+</pre>
+</code>
+
 
 ## 메뉴
 + 배추전
