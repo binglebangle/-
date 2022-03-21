@@ -1,9 +1,9 @@
-# 집
+# 메뉴선정
 ## 밥먹고싶은데
 **배고파**
 <pre>
 <code>
-printf("Hi");
+printf("골라골라");
 </pre>
 </code>
 
