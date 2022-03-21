@@ -1,8 +1,8 @@
 # 집
 ## 밥먹고싶은데
 **배고파**
-<code>
 <pre>
+<code>
 printf("Hi");
 </pre>
 </code>
