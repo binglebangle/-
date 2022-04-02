@@ -35,11 +35,13 @@
 > > 클라이언트가 본문 없이 리소스에 대한 헹더만 검색하는 경우에 사용   
 > -  OPTIONS
 > > 클라이언트가 서버의 리소스에 대해 수행 가능한 동작을 알아보기 위해 사용   
-<img scr = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7mI3U%2FbtqWX45M76d%2FgGoVLK6rcUJhekrxMcq6a1%2Fimg.png">
+<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7mI3U%2FbtqWX45M76d%2FgGoVLK6rcUJhekrxMcq6a1%2Fimg.png">
+
 > ### HTTP 응답 메소드
 > - 1xx informational response(조건부 응답)   
 > - 2xx Success(성공)   
 > - 3xx Redirection(리다이렉션, 경로 재지정)   
 > - 4xx Client Error(클라이언트 오류)   
 > - 5xx Server Error(서버 오류)    
-<img scr = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCmjnf%2FbtqWTYTN3X1%2F34p8xLsQtEIk0xMzyjIw8k%2Fimg.png">
+
+<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCmjnf%2FbtqWTYTN3X1%2F34p8xLsQtEIk0xMzyjIw8k%2Fimg.png">
