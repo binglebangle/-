@@ -53,5 +53,6 @@
 >   > 서버로 인한 오류
 
 <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCmjnf%2FbtqWTYTN3X1%2F34p8xLsQtEIk0xMzyjIw8k%2Fimg.png">
+
 > 프로토콜의 종류와 버전,HTTP의 상태코드, HTTP의 상태 메시지 순서로 작성   
->2번째 줄 부터 HTTP Reponse Headers 부분이다.
+> 번째 줄 부터 HTTP Reponse Headers 부분이다.
