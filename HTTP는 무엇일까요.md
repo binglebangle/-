@@ -35,13 +35,23 @@
 > > 클라이언트가 본문 없이 리소스에 대한 헹더만 검색하는 경우에 사용   
 > -  OPTIONS
 > > 클라이언트가 서버의 리소스에 대해 수행 가능한 동작을 알아보기 위해 사용   
-<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7mI3U%2FbtqWX45M76d%2FgGoVLK6rcUJhekrxMcq6a1%2Fimg.png">
+<img src  = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7mI3U%2FbtqWX45M76d%2FgGoVLK6rcUJhekrxMcq6a1%2Fimg.png">
+
+> 바로앞에 요청 메소드,Path, 프로토콜의 종류의 버전 순서로 작성   
+> 2번째 줄부터는 HTTP의 Request Header 부분으로 리소스를 요청하는 경로를 작성하는것이다.
 
 > ### HTTP 응답 메소드
-> - 1xx informational response(조건부 응답)   
+> - 1xx informational response(조건부 응답)  
+>   > 전송 프로토콜 수준의 정보 교환 
 > - 2xx Success(성공)   
+>   > 클라이언트 요청이 성공적으로 수행
 > - 3xx Redirection(리다이렉션, 경로 재지정)   
+>   > 클라이언트가 요청을 완료하기위해 추가적인 조취를 해야함
 > - 4xx Client Error(클라이언트 오류)   
+>   > 클라이언트로 인한 오류발생 (문법,권한 등)
 > - 5xx Server Error(서버 오류)    
+>   > 서버로 인한 오류
 
 <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCmjnf%2FbtqWTYTN3X1%2F34p8xLsQtEIk0xMzyjIw8k%2Fimg.png">
+> 프로토콜의 종류와 버전,HTTP의 상태코드, HTTP의 상태 메시지 순서로 작성   
+>2번째 줄 부터 HTTP Reponse Headers 부분이다.
