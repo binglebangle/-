@@ -42,7 +42,7 @@
 > > 클라이언트가 서버의 리소스에 대해 수행 가능한 동작을 알아보기 위해 사용   
 > - TRACE
 > > 요청된 리소스가 수신되는 경로를 보여줌
-> -CONNECT
+> - CONNECT
 > >프락시와 같은 중간 서버를 경유하는 것
 <img src  = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7mI3U%2FbtqWX45M76d%2FgGoVLK6rcUJhekrxMcq6a1%2Fimg.png">
 
